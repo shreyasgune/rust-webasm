@@ -61,3 +61,5 @@ $ cargo build --release
 cargo install wasm-pack
 
 ```
+
+WASM still needs to be sorted.
