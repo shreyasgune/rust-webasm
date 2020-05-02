@@ -61,4 +61,3 @@ $ cargo build --release
 cargo install wasm-pack
 
 ```
-@e3aOv59*D2Q
