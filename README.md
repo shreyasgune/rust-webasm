@@ -61,4 +61,3 @@ $ cargo build --release
 cargo install wasm-pack
 
 ```
-Test data
